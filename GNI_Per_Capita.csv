@@ -1,4 +1,4 @@
-﻿Country Code,Country Name,Indicator Code,Indicator Name,Number_Of_Records,Year,Value
+﻿Country_Code,Country_Name,Indicator_Code,Indicator_Name,Number_Of_Records,Year,Value
 AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,21029
 SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,4260
 SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,4572
