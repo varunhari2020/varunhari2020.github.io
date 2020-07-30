@@ -1,4 +1,4 @@
-﻿Country Code,Country Name,Indicator Code,Indicator Name,Number of Records,Year,Value
+﻿Country_Code,Country_Name,Indicator_Code,Indicator_Name,Number_of_Records,Year,Value
 DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
 FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
 DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
