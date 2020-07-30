@@ -1,39 +1,57 @@
 <!DOCTYPE html>
-<script src='https://d3js.org/d3.v5.min.js'></script>
-//<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-//<select id="selectButton"></select>
-<body onload="init();">
-<svg width=800 height=600></svg>
+<meta charset="utf-8">
+<script src='https://d3js.org/d3.v4.js'></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<select id="selectButton"></select>
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz"></div>
+
 <script>
-async function init(){
-//Get the data for GNI per capita
-	const data = await d3.csv(
-				 'https://varunhari2020.github.io/GNI_Per_Capita.csv');
-	var margin = {top: 50, right: 50, bottom: 50, left: 50},
-		width = 800 - margin.left - margin.right ,
-		height = 600 - margin.top - margin.bottom;
-// group the data: draw one line per group		
-		 var sumstat = d3.nest() // nest function allows to group the calculation per level of a factor
-		.key(function(d) { return d.Country Code;})
-		.entries(data);
-// Set the ranges
-	var x = d3.scaleLinear()
-			  .domain(d3.extent(data,function(d){return d.year;}))
-			  .range([0, width]);
-	var y = d3.scaleLog()
-			  .base(10)	
-			  .domain([0,d3.max(data,function(d){return +d.Value}))
-			  .range([height, 0]);
-// color palette
-  var res = sumstat.map(function(d){ return d.Country Code });// list of country names
+// set the dimensions and margins of the graph
+var margin = {top: 10, right: 30, bottom: 30, left: 60},
+    width = 1024 - margin.left - margin.right,
+    height = 768 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+var svg = d3.select("#my_dataviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+//Read the data
+d3.csv("https://varunhari2020.github.io/GNI_Per_Capita.csv", function(data) {
+
+  // group the data: I want to draw one line per group
+  var sumstat = d3.nest() // nest function allows to group the calculation per level of a factor
+    .key(function(d) { return d.Country_Code;})
+    .entries(data);
+
+  // Add X axis --> it is a date format
+  var x = d3.scaleLinear()
+    .domain(d3.extent(data, function(d) { return d.Year; }))
+    .range([ 0, width ]);
+  svg.append("g")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x).ticks(5));
+
+  // Add Y axis
+  var y = d3.scaleLinear()
+    .domain([0, d3.max(data, function(d) { return +d.Value; })])
+    .range([ height, 0 ]);
+  svg.append("g")
+    .call(d3.axisLeft(y));
+
+  // color palette
+  var res = sumstat.map(function(d){ return d.key }) // list of group names
   var color = d3.scaleOrdinal()
     .domain(res)
-    .range(d3.schemesSet2);			  
+	.range(['#e41a1c','#377eb8','#4daf4a','#984ea3','#ff7f00','#ffff33','#a65628','#f781bf','#999999','#1b3945','#f46075','#ff00ff','#3e2b3b','#c1e7e1','#ff004d'])
+    //.range(d3.schemeSet2)
 
-	var svg = d3.select("svg")
-		.append("g")
-		.attr("transform", "translate(50,50)");
-//Append the Data	 
+  // Draw the line
   svg.selectAll(".line")
       .data(sumstat)
       .enter()
@@ -45,21 +63,11 @@ async function init(){
           return d3.line()
             .x(function(d) { return x(d.Year); })
             .y(function(d) { return y(+d.Value); })
-            (d.values);
+            (d.values)
         })
-		// Define the axes
 
-// Y Axis
-		d3.select("svg")
-		.append("g")
-		.attr("transform", "translate(50,50)")
-		.call(d3.axisLeft(y).ticks(5).tickFormat(d3.format("~s")));
-// X Axis
-		d3.select("svg")
-		.append("g")
-		.attr("transform", "translate(50,600)")
-		.call(d3.axisBottom(x).ticks(5).tickFormat(d3.format("~s")));
-}
+})
+
+
 </script>
-</body>
 </html>
