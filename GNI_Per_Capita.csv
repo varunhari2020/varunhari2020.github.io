@@ -1,0 +1,901 @@
+﻿Country Code,Country Name,Indicator Code,Indicator Name,Number of Records,Year,Value
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,21029.00944
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,4260.319792
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,4571.900144
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,28722.49392
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,5525.427392
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,19447.75517
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,19290.9483
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,21912.25288
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,21834.42748
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,22822.27637
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,23522.76554
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,30441.29039
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,30646.08755
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,19785.61175
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,25127.86763
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,26492.37711
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,50665.75099
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,31311.60694
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,20988.85408
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,3598.891759
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,20000.49544
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1965,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,26225.28257
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,27429.2176
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1967,4990.178483
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,25866.22359
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,22559.46803
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,6860.998201
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,26016.34552
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,22773.24912
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,18328.38032
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,23735.57496
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,26694.00521
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,23784.34675
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,32880.3065
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,23704.46871
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,19403.02217
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1960,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,3763.985356
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1961,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,3935.402626
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1962,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,4246.985596
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1963,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,4047.188544
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1964,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1966,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1968,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,24074.80901
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,6169.574167
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,7481.182855
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,26427.21848
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,8312.595721
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,27677.09199
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,29830.77833
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,43547.27264
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,11481.13013
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,29685.22249
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,52449.43287
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,24546.5357
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1969,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,17798.95
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1970,23258.23731
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,25699.49003
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,26593.61576
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,52205.27789
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,32336.76651
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,21740.45968
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,21110.94924
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,33544.36192
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,22918.097
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,22057.47202
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,7167.351923
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,8840.101796
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,27399.76222
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,25508.68689
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,9168.876906
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,19759.56497
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,25578.4837
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,27568.89001
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,25496.28418
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,34152.41312
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,24238.8648
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,23373.01823
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,8039.226329
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,34631.00557
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,24949.58703
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,24189.71184
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,8848.003735
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,29232.20842
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,52563.13008
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,20387.94127
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,27320.43952
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,28241.75085
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,22000.8107
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,29174.97161
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,12817.28948
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,21474.15321
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,28814.42403
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,35607.01664
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,27206.35111
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,26389.96024
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,11256.27097
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,13466.91995
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,30384.57857
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,27727.95581
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,37764.48614
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,30527.96358
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,29677.45055
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,23213.97304
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,31262.71048
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,33358.95814
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,59734.6382
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,32282.21813
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,31071.95968
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,34419.19818
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,60129.9659
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,42896.75567
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,29623.24979
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,29438.84416
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,42781.45237
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,30813.4731
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,30557.45555
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,16988.42694
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,33467.58602
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,57759.81873
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,19710.20176
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,31889.16191
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,31554.64519
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,17186.72513
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,43317.98981
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,43739.6234
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,32775.60041
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,34206.91859
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,18448.26645
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,22247.04452
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,7115.020667
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,28392.88645
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,29033.00439
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1974,55194.23672
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,27945.66049
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,26562.17004
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,28885.43756
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,10198.32826
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,19992.77697
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,26358.97229
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,28446.81552
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,27067.89723
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,35251.66645
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,25859.95485
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,25014.26681
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,9417.4918
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,27681.2503
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,29063.45418
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,28345.44012
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,12402.76485
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,29627.13695
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,28587.05993
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,30329.79204
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,29023.81826
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,29917.1994
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,47745.97367
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,30778.75833
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,56860.59332
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,36709.51763
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,27638.1996
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,26288.76312
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,11389.26852
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,29408.57248
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,47611.0222
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,13909.10012
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,21727.67141
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,28431.22577
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,30020.73401
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,49479.84841
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,15258.44746
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,31401.62765
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,56054.53049
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,22707.52839
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,29443.78999
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,27650.27047
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,26835.77798
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,30909.05563
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,52464.05854
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,32716.56984
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,57912.8644
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,31645.33519
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,30817.33922
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,42705.72673
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,28943.6938
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,29099.40634
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,14039.91249
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,24832.25032
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,32918.1728
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,32656.75952
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,58721.30285
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,17938.13021
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,35657.89215
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,60586.17479
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,15743.1543
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,33888.49321
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,32924.97468
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,34313.85656
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,33010.10967
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,35619.34245
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,58808.74222
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,22352.46265
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,36693.29047
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,65626.74152
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,32644.07407
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,32957.30234
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,31547.69948
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,27810.63884
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,35584.79332
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,20354.37004
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1971,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,27142.71062
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,53308.65741
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,19030.71487
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1972,24721.57126
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,27090.23988
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,25079.83108
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,27758.95729
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,28219.65067
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,54603.55313
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,20273.56488
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1973,25924.61965
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,32289.93095
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,23344.43076
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,22155.4043
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,7009.906689
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,9769.87615
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,29654.07715
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,50783.14725
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,19410.7364
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1975,25218.97577
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,29862.92483
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1976,50801.78909
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,29387.26928
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1977,10677.48022
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,21268.45782
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1978,28511.40665
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,36260.24474
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,26700.20873
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,25990.69876
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,9935.6824
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,30554.77128
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,45090.59595
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,30766.19369
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1979,53895.8515
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,36132.29944
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,27078.84455
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,26311.98022
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,10586.40201
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,30535.2892
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,47164.50702
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,30860.38413
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1980,56028.73362
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,21312.50438
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1981,29208.4494
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,30939.33586
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1982,55727.65029
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,29643.96904
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,28332.84395
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,39167.22603
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,27851.42158
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,27784.96039
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,12897.11078
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1984,16658.48625
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,40673.92981
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,28285.05637
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,28499.02923
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,12813.06596
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,31223.87016
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,55695.38313
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,16775.43774
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,24065.06891
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1985,32179.96046
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,16882.61545
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,27521.42762
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,34867.13725
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,42882.29524
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,34761.24012
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,32516.67436
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,34011.93563
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,44547.77689
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,33177.07773
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,34550.40497
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,19393.04779
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,11849.35554
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1983,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,31943.49462
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1986,57891.49503
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,32596.95349
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,32004.55756
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,26063.37889
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1987,33750.1239
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,36366.87782
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1988,62550.44289
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,34815.62364
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,57980.7501
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,21246.6046
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,36994.53705
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,64386.5204
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,28116.10173
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1989,35810.22214
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,28185.44592
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,36126.29596
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,17705.83473
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1990,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,36321.34036
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,60163.76438
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,23054.82942
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,35687.76083
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,64290.27567
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,36554.10969
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,62562.04266
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,34460.00099
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,63402.18031
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,35122.75372
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,62847.93547
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,31263.81182
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,39351.97194
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,33225.90038
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,41962.42604
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,36587.93617
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,46934.228
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,83040.35918
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,32382.00978
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,47314.77721
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,84450.84003
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,34637.92269
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,38815.4675
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,46034.30532
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,46662.43783
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,41880.8153
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,47761.48375
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,89445.8839
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,38070.47834
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,50660.44472
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,76388.73027
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,50425.78645
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,89944.50441
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,41570.77565
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,40838.22071
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,49391.66824
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,48805.69395
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,47939.63406
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,51231.00699
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,90461.63094
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,41638.41567
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,54660.71885
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,70845.13719
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,57794.60863
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,40983.60604
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,40708.15552
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,31646.75254
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,50001.18785
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,46622.11589
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,52215.76235
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,88338.91686
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,47464.90876
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,55122.27487
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,75869.32957
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,51646.20425
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,89438.19072
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,47899.71183
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,39631.21677
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,50103.54419
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,52765.02751
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,48762.21416
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,44399.70533
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,53974.23511
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,49647.65473
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,54461.44109
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,54585.69341
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,50693.77226
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,55078.30709
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,50863.80787
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,44622.16159
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,32856.68197
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,33929.98268
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,21177.12046
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,28520.76865
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,36820.45414
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,38032.31404
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,67066.91365
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,28386.26109
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,48282.41724
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,34038.36177
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,34739.38637
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,22104.54243
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,37809.40664
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,33732.14664
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,36985.58626
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,63477.72981
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,50796.19062
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,35383.20504
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,35475.25668
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,22744.22521
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,40372.69886
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,35500.57762
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,43183.84615
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,38321.6792
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,44721.04487
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,72282.89231
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,38743.88436
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,39650.39497
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,41307.02835
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,47846.41562
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,86959.92152
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,36164.19638
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,49045.23867
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,73068.6369
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,39421.75138
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,47403.57894
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,59261.97554
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,40842.09054
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,39160.25854
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,27846.15532
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,61616.6874
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,41665.1196
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,41045.24833
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,30153.67057
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,53338.73861
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,78242.46823
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,51784.64615
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,91321.80959
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,43504.87175
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,54984.10536
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,75570.31707
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,41272.66095
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,50033.29168
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,61172.45258
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,42357.24494
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,42502.78729
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,33421.14143
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,40653.1572
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,49634.19789
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,50033.31512
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,88715.09513
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,39799.66471
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,51348.15552
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,74561.22037
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,38700.27466
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,47926.52681
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,40814.23109
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,59797.63428
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,42418.45522
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,45083.00972
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,34804.64711
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,51988.97958
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,48033.04588
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,51247.40694
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,89506.60107
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,48964.71589
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,54606.18572
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,77053.80496
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,39804.76798
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,50646.6368
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,61603.26562
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,42377.11254
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,45831.13307
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,36449.80763
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,49570.45545
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,41048.36997
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,52536.85372
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,63454.45958
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,42955.81237
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,47103.03256
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,37755.25273
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,56757.77737
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,65371.38112
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,44650.96819
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,48808.67885
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,40730.84531
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1991,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,33793.24853
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,31368.51451
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,36966.72929
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,63873.52859
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,25780.24185
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,36388.49405
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,32928.90465
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,21870.61684
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,29653.53995
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,37784.80785
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,36921.31732
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,33505.55546
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,29697.32858
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,30564.8264
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,38358.9349
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,31102.26717
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,41766.29177
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,76409.63549
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,32492.09367
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,38146.1985
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,65896.6892
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,32428.12995
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,40565.85206
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,51931.76418
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,36550.88692
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,36046.65291
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,21702.34455
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,42890.97982
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,77922.13088
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,30569.23185
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,40144.52857
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,67943.83094
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,33683.63343
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1998,41859.85752
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,35408.35358
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,31950.13697
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,34500.34657
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,43380.18107
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,54638.00953
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,38918.25083
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,37722.41376
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,23221.73601
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,47270.38402
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,80666.71697
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,33645.98602
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,35804.29928
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,44704.21334
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,43452.9047
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,44679.68646
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,39384.47642
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,32876.71399
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,37759.99781
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,45097.68396
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,45403.59493
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,40551.82345
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,43540.59799
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,47107.93491
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,43617.81044
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,46733.5941
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,61479.57771
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,42409.06529
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,42228.57351
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,32098.00906
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,44236.31109
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,40190.37027
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,51099.57159
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,88706.53211
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,46726.58221
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,54253.59451
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,78987.25127
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,39463.73181
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,48902.23209
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,39469.52874
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,59797.97935
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,42153.40546
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,45116.43707
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,34574.90243
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,54500.7072
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,76635.49567
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,60640.95402
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,42203.64025
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,45152.95427
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,35664.39755
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,53237.83979
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,49614.94252
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,51911.15113
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,93822.28956
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,50221.62377
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,56644.08123
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,78398.62696
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,51946.58425
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,93958.62871
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,50915.2506
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,57164.74025
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,77702.67635
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,41487.05759
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,52943.0155
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,54348.77187
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,95345.24418
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,52687.6164
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,58228.93581
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,42498.53925
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,53815.55841
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,42741.7469
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,55079.45741
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,24242.77731
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,27911.3316
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1992,36317.61709
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,35210.47448
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,31921.11009
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,33298.95116
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1993,63038.34718
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,46902.19493
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,33453.79474
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1994,34393.71095
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,26816.1905
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,39267.11547
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,69753.33026
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,36387.51637
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1995,63258.41655
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,49323.83775
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,34573.58261
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,34976.54804
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,21637.79849
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,28735.34025
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,40511.49313
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,72921.58411
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1996,30202.69578
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,38929.9842
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1997,34916.62428
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,53477.57726
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,37864.15088
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,36660.07969
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,22050.26209
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,45499.86803
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,79114.63273
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,42613.62458
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,1999,69278.74079
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2000,38186.10551
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,55322.81303
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,39488.68574
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,38244.72685
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,23554.51317
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,45262.99358
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,70946.72311
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,36851.40633
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,44759.35316
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2001,38358.47865
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,55526.12518
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,39354.68569
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,37965.80773
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,23424.23322
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,46832.75572
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,83947.37848
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,46204.46085
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2002,69658.62727
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,55779.39407
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,39509.11159
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,37689.25021
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,24682.1277
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,47729.90788
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2003,71862.1052
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,57684.50107
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,40350.55508
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,38773.54589
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,26476.82347
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2004,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,45144.99219
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,40519.36803
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2005,48597.46296
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,47598.13689
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2006,45211.69906
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2007,47227.32454
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,49749.36057
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2008,47892.06733
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,49946.92234
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2009,45865.0878
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,58990.78444
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,41579.03118
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,42365.03461
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,33238.91772
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,34965.81332
+AUS,Australia,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,50376.0393
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,47655.08794
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,39886.93856
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,49402.65623
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2012,39128.338
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2013,41130.77979
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,50975.07716
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,92187.49738
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,51223.92988
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,55479.03727
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,76706.8556
+GBR,United Kingdom,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,40529.72107
+USA,United States,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2014,51511.17711
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,62264.26872
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,42675.98211
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,46358.08068
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,36938.11126
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2015,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,54050.73383
+CAN,Canada,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,49791.577
+DNK,Denmark,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,64127.99653
+FRA,France,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,44034.14507
+DEU,Germany,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,48125.64061
+HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,39610.27053
+ISL,Iceland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,
+NLD,Netherlands,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,55567.65299
+NOR,Norway,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,95951.28697
+SGP,Singapore,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,54169.44009
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,58811.97993
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,
+IRL,Ireland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+SWE,Sweden,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
+CHE,Switzerland,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2019,
