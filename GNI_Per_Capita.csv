@@ -561,7 +561,6 @@ DNK,Denmark,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,58991
 FRA,France,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,41579
 DEU,Germany,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,42365
 HKG,"Hong Kong SAR, China",,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,33239
-ISL,Iceland,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2010,34966
 NLD,Netherlands,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,52216
 NOR,Norway,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,88339
 SGP,Singapore,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2011,47465
@@ -646,19 +645,6 @@ GBR,United Kingdom,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,414
 USA,United States,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,52943
 IRL,Ireland,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,54051
 CAN,Canada,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2016,49792
-AUS,Australia,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,54586
-CAN,Canada,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,50694
-IRL,Ireland,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,56758
-NLD,Netherlands,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,54349
-NOR,Norway,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,95345
-SGP,Singapore,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,52688
-SWE,Sweden,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,58229
-GBR,United Kingdom,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,42499
-USA,United States,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,53816
-DNK,Denmark,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,64128
-FRA,France,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,44034
-DEU,Germany,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,48126
-HKG,"Hong Kong SAR, China",,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2017,39610
 AUS,Australia,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,55078
 CAN,Canada,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,50864
 DNK,Denmark,,NY.GNP.PCAP.KD,GNI per capita (constant 2010 US$),1,2018,65371
