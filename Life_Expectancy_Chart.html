@@ -26,13 +26,25 @@ font-size: 80%;
 		width: 450px;
         background:#f4f4f4;
     } 
+.toolTip {
+  position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #6F257F;
+  font-size: 24px;
+  padding: 14px;
+  text-align: center;
+}
 </style>
 </head>
 <title>Developed Countries - An Analysis </title>
 <body style="background-color:powderblue;">
 <h4 style = "font-size:42px;">Life Expectancy at Birth</h4>
 <p1 style = "font-size: 32px;">Life expectancy at birth is defined as how long, on average, a newborn can expect to live, if current death rates do not change.
-<br></p1>
+<br><br>
+<b>Select a country in the list to view how they have improved over the years</b><br><br></p1>
 <!-- Initialize a select button -->
 <select id="selectButton" class="select"></select>
 
@@ -103,7 +115,7 @@ d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
   svg.append("g")
     .style("font", "25px times")
     .call(d3.axisLeft(y));
-
+var tooltip = d3.select("body").append("div").attr("class", "toolTip");
 	var dataFilter1 = data.filter(function(d){return d.Country_Name==allGroup[0]});
 var rect = svg.selectAll("rect")
 			.data(dataFilter1)
@@ -114,6 +126,14 @@ var rect = svg.selectAll("rect")
 			  .attr("width", x.bandwidth())
 			  .attr("height", function(d) { return height - y(+d.Value); })
 			  .attr("fill", function(d){return myColor(allGroup[0]);})
+			  .on("mouseover", function(d){
+              tooltip
+              .style("left", d3.event.pageX - 50 + "px")
+              .style("top", d3.event.pageY - 70 + "px")
+              .style("display", "inline-block")
+              .html("Year: " + d.Year + "<br>" + "Life Expectancy:" + (+d.Value));
+        })
+    		.on("mouseout", function(d){ tooltip.style("display", "none");});
 
 // A function that create / update the plot for a given variable:
 function update(selectedGroup) {
@@ -139,8 +159,10 @@ function update(selectedGroup) {
     d3.select("#selectButton").on("change", function(d) {
         // recover the option that has been chosen
         var selectedOption = d3.select(this).property("value")
+
         // run the updateChart function with this selected option
         update(selectedOption)})
+
 })
 </script>
 </html>
