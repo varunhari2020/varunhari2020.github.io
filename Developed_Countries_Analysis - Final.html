@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<head>
+<style>
+
+.serie_label {
+fill: #2b2929;
+font-family: Georgia;
+font-size: 80%;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.select {
+        height:45px;
+        line-height:45px;
+		font-size: 32px;
+		width: 450px;
+        background:#f4f4f4;
+    } 
+
+</style>
+</head>
+<title>Developed Countries - An Analysis </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body style="background-color:powderblue;">
+
+<div class="w3-container">
+
+  <div class="w3-bar w3-black">
+    <button class="w3-bar-item w3-button tablink w3-red" onclick="openTab(event,'Home')">Developed Countries</button>
+    <button class="w3-bar-item w3-button tablink" onclick="openTab(event,'GNI')">GNI Per Capita</button>
+    <button class="w3-bar-item w3-button tablink" onclick="openTab(event,'LEB')">Life Expectancy at Birth</button>
+  </div>
+  
+  <div id="Home" class="w3-container w3-border Tab">
+	<h1 style =  "font-size:45px;">Developed Countries - Why are they called developed?</h1>
+	<p1 style = "font-size: 24px;"> A developed country is defined as a sovereign state that has a developed economy and technologically advanced infrastructure when compared to other nations. 
+	Several factors that determine whether or not a country is developed, such as the Gross National Income, Health care spend per capita, Life Expectancy and freedom 
+	are used to evaluate and rank countries.<br></p1>
+	<p2 style = "font-size: 24px;"> We are going to review 3 factors that define a Developed Country looking at <b>15</b> developed countries and understand how they compare against each other. 
+	<br><br>Select one of the tabs to navigate through different data set<br></p2>
+  </div>
+
+  <div id="LEB" class="w3-container w3-border Tab" style="display:none">
+     <object type="text/html" data="https://varunhari2020.github.io/Life_Expectancy_Chart.html" width="2560px" height="1440px" style="overflow:auto;">
+    </object>
+  </div>
+
+  <div id="GNI" class="w3-container w3-border Tab" style="display:none">
+    <h2>Tokyo</h2>
+    <p>Tokyo is the capital of Japan.</p>
+  </div>
+</div>
+
+<script>
+function openTab(evt, TabName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("Tab");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" w3-red", "");
+  }
+  document.getElementById(TabName).style.display = "block";
+  evt.currentTarget.className += " w3-red";
+}
+</script>
+
+</body>
+
+</html>
