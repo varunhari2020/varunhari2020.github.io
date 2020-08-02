@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<head>
+<style>
+
+.serie_label {
+fill: #2b2929;
+font-family: Georgia;
+font-size: 80%;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.select {
+        height:45px;
+        line-height:45px;
+		font-size: 32px;
+		width: 450px;
+        background:#f4f4f4;
+    } 
+</style>
+</head>
+<title>Developed Countries - Why are they called developed? </title>
+<body style="background-color:powderblue;">
+<h1 style =  "font-size:60px;">Developed Countries - Why are they called developed?</h1>
+<p1 style = "font-size: 32px;"> A developed country is defined as a sovereign state that has a developed economy and technologically advanced infrastructure when compared to other nations. 
+Several factors that determine whether or not a country is developed, such as the Gross National Income, Health care spend per capita, Life Expectancy and freedom are used to evaluate and rank countries.<br></p1>
+<p2 style = "font-size: 32px;"> We are going to review 2 factors that define a Developed Country looking at <b>14</b> developed countries and understand how they compare against each other. 
+<br>Now, we are going to analyse the Life Expectancy at Birth.</p2>
+<h4 style = "font-size:42px;">Life Expectancy at Birth</h4>
+<p1 style = "font-size: 32px;">Life expectancy at birth is defined as how long, on average, a newborn can expect to live, if current death rates do not change.
+<br></p1>
+<!-- Initialize a select button -->
+<select id="selectButton" class="select"></select>
+
+<div id="my_dataviz"></div>
+</body>
+
+<meta charset="utf-8">
+<script src='https://d3js.org/d3.v4.js'></script>
+
+<script>
+// set the dimensions and margins of the graph
+var margin = {top: 30, right: 50, bottom: 60, left: 50},
+    width = 1365 - margin.left - margin.right,
+    height = 937 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+var svg = d3.select("#my_dataviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+		  //"translate(" + margin.left + "," + margin.top + ")");
+
+//Read the data
+d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
+  
+
+  const data = data1.filter(function(d){return d.Indicator_Name == "Life_Expectancy";});
+  // group the data: I want to draw one line per group
+    // List of groups (here I have one group per column)
+    var allGroup = d3.map(data, function(d){return(d.Country_Name)}).keys();
+	allGroup.sort(function(a,b){return d3.ascending(a,b);});
+    // add the options to the button
+    d3.select("#selectButton")
+      .selectAll('myOptions')
+     	.data(allGroup)
+      .enter()
+    	.append('option')
+      .text(function (d) { return d; }) // text showed in the menu
+      .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+    // A color scale: one color for each group
+    var myColor = d3.scaleOrdinal()
+      .domain(allGroup)
+      .range(['#e41a1c','#680b42','#4daf4a','#984ea3','#ff7f00','#ffff33','#a65628','#f781bf','#f4ac21','#A8FF33','#33D1FF','#ff00ff','#bada55','#1b3945','#0050aa']);
+
+ 
+ 
+// X axis
+	var x = d3.scaleBand()
+	  .range([ 0, width ])
+	  .domain(data.map(function(d) { return d.Year; }))
+	  .padding(0.2);
+	svg.append("g")
+	  .attr("transform", "translate(0," + height + ")")
+	  .style("font", "25px times")
+	  .call(d3.axisBottom(x))
+	  .selectAll("text")
+		.attr("transform", "translate(-10,0)rotate(-45)")
+		.style("text-anchor", "end");
+
+  // Add Y axis
+  var y = d3.scaleLinear()
+    .domain([d3.min(data, function(d) { return +d.Value; }), d3.max(data, function(d) { return +d.Value; })])
+    .range([ height, 0 ]);
+  svg.append("g")
+    .style("font", "25px times")
+    .call(d3.axisLeft(y));
+
+	var dataFilter1 = data.filter(function(d){return d.Country_Name==allGroup[0]});
+var rect = svg.selectAll("rect")
+			.data(dataFilter1)
+			.enter()
+			.append("rect")
+			  .attr("x", function(d) { return x(d.Year); })
+			  .attr("y", function(d) { return y(+d.Value); })
+			  .attr("width", x.bandwidth())
+			  .attr("height", function(d) { return height - y(+d.Value); })
+			  .attr("fill", function(d){return myColor(allGroup[0]);})
+
+// A function that create / update the plot for a given variable:
+function update(selectedGroup) {
+
+// Create new data with the selection?
+      var dataFilter = data.filter(function(d){return d.Country_Name == selectedGroup;});
+    var u = svg.selectAll("rect")
+    .data(dataFilter);
+	u
+    .enter()
+    .append("rect")
+    .merge(u)
+    .transition()
+    .duration(1000)
+      .attr("x", function(d) { return x(d.Year); })
+      .attr("y", function(d) { return y(d.Value); })
+      .attr("width", x.bandwidth())
+      .attr("height", function(d) { return height - y(d.Value); })
+      .attr("fill", function(d){return myColor(selectedGroup);})
+}
+
+ // When the button is changed, run the updateChart function
+    d3.select("#selectButton").on("change", function(d) {
+        // recover the option that has been chosen
+        var selectedOption = d3.select(this).property("value")
+        // run the updateChart function with this selected option
+        update(selectedOption)})
+})
+</script>
+</html>

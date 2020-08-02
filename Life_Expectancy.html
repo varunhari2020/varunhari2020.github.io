@@ -29,7 +29,11 @@ font-size: 80%;
 Several factors that determine whether or not a country is developed, such as the Gross National Income, Health care spend per capita, Life Expectancy and freedom 
 are used to evaluate and rank countries.<br></p1>
 <p2 style = "font-size: 32px;"> We are going to review 3 factors that define a Developed Country looking at <b>15</b> developed countries and understand how they compare against each other. 
-<br>First, we are going to analyse the Gross National Income - Per capita.</p2>
+<br></p2>
+<!-- Add 2 buttons -->
+<button class="button" onclick="GNI_data_view()">GNI Per-Capita</button>
+<button class="button" onclick="Life_Expectancy()">Life Expectancy At Birth</button>
+
 <h4 style = "font-size:42px;">Gross National Income - Per Capita</h4>
 <p1 style = "font-size: 32px;">The GNI per capita is the dollar value of a country's final income in a year, divided by its population. It should be reflecting the average before tax income of a country's citizens
 <br></p1>
@@ -37,13 +41,16 @@ are used to evaluate and rank countries.<br></p1>
 <button class="button" onclick="data_view(1)">All Country View</button>
 <button class="button" onclick="data_view(2)">Individual Country View </button>
 <div id="my_dataviz"></div>
+<div id='tooltip' style='position:absolute;background-color:lightgray;padding:5px'></div>
 </body>
 
 <meta charset="utf-8">
 <script src='https://d3js.org/d3.v4.js'></script>
+<!-- Load d3-annotation -->
+<script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
 
 <script>
-function full_data_view() {
+function full_data_view(data_type) {
 // set the dimensions and margins of the graph
 var margin = {top: 30, right: 500, bottom: 50, left: 50},
     width = 1365 - margin.left - margin.right,
@@ -61,9 +68,9 @@ var svg = d3.select("#my_dataviz")
 
 //Read the data
 d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
-
-    const data = data1.filter(function(d){return d.Indicator_Name == "GNI_Per_Capita";});
   
+
+  const data = data1.filter(function(d){return d.Indicator_Name == "GNI_Per_Capita";});
   // group the data: I want to draw one line per group
   var sumstat = d3.nest() // nest function allows to group the calculation per level of a factor
     .key(function(d) { return d.Country_Name;}).sortKeys(d3.ascending)
@@ -77,7 +84,6 @@ d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
   svg.append("g")
     .attr("transform", "translate(0," + height + ")")
 	.style("font", "20px times")
-	.style("stroke-width","2.5px")
     .call(d3.axisBottom(x).tickFormat(d3.format("d")));
 
   // Add Y axis
@@ -86,7 +92,6 @@ d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
     .range([ height, 0 ]);
   svg.append("g")
     .style("font", "20px times")
-	.style("stroke-width","2.5px")	
     .call(d3.axisLeft(y).ticks(10,"s"));
 
   // color palette
@@ -97,12 +102,32 @@ d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
 	.range(['#e41a1c','#680b42','#4daf4a','#984ea3','#ff7f00','#ffff33','#a65628','#f781bf','#f4ac21','#A8FF33','#33D1FF','#ff00ff','#bada55','#1b3945','#0050aa'])
     //.range(d3.schemeSet3)
 
+
+
+  svg.selectAll(".line")
+      .data(sumstat)
+      .enter()
+      .append("path")
+        .attr("fill", "none")
+        .attr("stroke", function(d){ return color(d.key) })
+        .attr("stroke-width", 4)
+        .attr("d", function(d){
+          return d3.line()
+            .x(function(d) { return x(d.Year); })
+            .y(function(d) { return y(+d.Value); })
+            (d.values)})
+		.transition()
+		.duration(2000)
+		.delay(20)
+		//.on("mouseover", mouseover )
+		//.on("mousemove", mousemove )
+		//.on("mouseleave", mouseleave )
+
 // Add one dot in the legend for each name.
 	svg.selectAll("mydots")
 	  .data(allkeys)
 	  .enter()
 	  .append("circle")
-	    .attr("id",function(d){return d})
 		.attr("cx", width+100)
 		.attr("cy", function(d,i){ return 100 + i*40}) // 100 is where the first dot appears. 25 is the distance between dots
 		.attr("r", 12)
@@ -113,7 +138,6 @@ d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
 	  .enter()
 	  .append("text")
 		.attr("x", width+120)
-		.attr("id",function(d){return d})
 		.attr("y", function(d,i){ return 100 + i*40}) // 100 is where the first dot appears. 25 is the distance between dots
 		.style("fill", "#111111")
 		.style("font-size","20px")
@@ -121,48 +145,17 @@ d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
 		.attr("text-anchor", "left")
 		.style("alignment-baseline", "middle")
 
-  svg.selectAll(".line")
-      .data(sumstat)
-      .enter()
-      .append("path")
-        .attr("fill", "none")
-        .attr("stroke", function(d){ return color(d.key) })
-        .attr("stroke-width", 2.5)
-		.attr("id",function(d){return d.key})
-        .attr("d", function(d){
-          return d3.line()
-            .x(function(d) { return x(d.Year); })
-            .y(function(d) { return y(+d.Value); })
-            (d.values)})
-		.on("mouseover", function(d){
-        	d3.selectAll(".line").style("opacity",0.2);		
-			d3.selectAll("circle").style("opacity",0.2);		
-			d3.selectAll("mylabels").style("opacity",0.2);		
-		    d3.select(this).style("stroke-width","6px").style("opacity",1);
-            d3.selectAll("#"+this.id).style("opacity",1);
-			console.log(this);
-			//bind the data
-		})
-    	.on("mouseout",	function(d) {        //undo everything on the mouseout
-      		d3.selectAll("path")
-        		.style("opacity",'1').style("stroke-width","2.5px");
-			d3.selectAll("circle")
-        		.style("opacity",'1');
-		    d3.selectAll("mylabels")
-        		.style("opacity",'1');})
-		//.on("mouseleave", mouseleave )
 
 
 })
 }
-function ind_data_view() {
+function ind_data_view(data_type) {
 // set the dimensions and margins of the graph
-var margin = {top: 30, right: 10, bottom: 30, left: 50},
-    width = 420 - margin.left - margin.right,
-    height = 420 - margin.top - margin.bottom;
+var margin = {top: 30, right: 0, bottom: 30, left: 50},
+    width = 400 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
 //Read the data
 d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
-
 
   const data = data1.filter(function(d){return d.Indicator_Name == "GNI_Per_Capita";});
   // group the data: I want to draw one line per group
@@ -221,7 +214,8 @@ d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
             .y(function(d) { return y(+d.Value); })
             (d.values)})
 	
-	
+
+		
 //Print text			
   // Add titles
   svg
@@ -229,9 +223,10 @@ d3.csv("https://varunhari2020.github.io/All_Data.csv", function(data1) {
     .attr("text-anchor", "start")
     .attr("y", -5)
     .attr("x", 0)
-    .text(function(d){ return(d.key +": Current GNI(Per Capita):$" + d3.max(d.values,function(d){return d.Value;}))})
+    .text(function(d){ return(d.key)})
     .style("fill", "#111111")
 	.style("font-size","20px")	
+
 
   })
 }
@@ -252,6 +247,11 @@ d3.select("#my_dataviz")
  .call(ind_data_view);
  }
 }
+
+function Life_Expectancy(){
 data_view(1);
+}
+Life_Expectancy()
+
 </script>
 </html>
