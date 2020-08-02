@@ -1,6 +1,6 @@
 ﻿Country_Code,Country_Name,Indicator_Code,Indicator_Name,Number of Records,Year,Value
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,31264
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,39352
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,31264
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,39352
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,37809
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,33732
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,36986
@@ -8,7 +8,7 @@ CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,63478
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,49324
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,34574
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,34977
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,21638
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,21638
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,28735
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,40511
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,72922
@@ -16,15 +16,15 @@ SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1996,30203
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,50796
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,35383
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,35475
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,22744
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,22744
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,31102
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,41766
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,76410
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,32492
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,38146
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,65897
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,32428
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,40566
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,32428
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,40566
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,38930
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1997,34917
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,33226
@@ -33,24 +33,24 @@ CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,35501
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,51932
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,36551
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,36047
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,21702
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,21702
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,42891
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,77922
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,30569
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,40145
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,67944
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,33684
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,41860
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,33684
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1998,41860
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,41962
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,36588
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,35408
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,31950
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,34500
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,43380
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,34500
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,43380
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,53478
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,37864
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,36660
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,22050
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,22050
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,45500
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,79115
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,1999,42614
@@ -62,12 +62,12 @@ CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,72283
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,54638
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,38918
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,37722
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,23222
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,23222
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,47270
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,80667
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,33646
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,35804
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,44704
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,35804
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,44704
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2000,38186
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,46934
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,83040
@@ -77,22 +77,22 @@ AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,43453
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,55323
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,39489
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,38245
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,23555
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,23555
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,45263
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,70947
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,36851
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,44759
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,36851
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,44759
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2001,38358
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,39650
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,44680
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,39384
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,32877
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,37760
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,45098
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,37760
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,45098
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,55526
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,39355
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,37966
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,23424
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,23424
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,46833
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,83947
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,46204
@@ -100,15 +100,15 @@ CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2002,69659
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,47315
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,84451
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,34638
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,38815
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,46034
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,38815
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,46034
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,41307
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,45404
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,40552
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,55779
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,39509
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,37689
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,24682
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,24682
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,47730
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2003,71862
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,46662
@@ -118,13 +118,13 @@ NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,86960
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,36164
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,49045
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,73069
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,39422
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,47404
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,39422
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,47404
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,43541
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,57685
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,40351
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,38774
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,26477
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2004,26477
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,47761
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,89446
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,38070
@@ -133,21 +133,21 @@ CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,76389
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,59262
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,40842
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,39160
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,27846
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,27846
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,47108
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,43618
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,45145
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,40519
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,48597
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,40519
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2005,48597
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,50426
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,89945
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,41571
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,40838
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,49392
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,40838
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,49392
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,61617
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,41665
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,41045
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,30154
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,30154
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,53339
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,78242
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2006,46734
@@ -160,12 +160,12 @@ NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,91322
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,43505
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,54984
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,75570
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,41273
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,50033
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,41273
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,50033
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,61480
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,42409
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,42229
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,32098
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,32098
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2007,47227
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,51231
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,90462
@@ -175,23 +175,23 @@ CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,70845
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,61172
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,42357
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,42503
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,33421
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,40653
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,49634
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,33421
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,40653
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,49634
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,44236
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,49749
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2008,47892
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,57795
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,40984
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,40708
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,31647
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,31647
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,50033
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,88715
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,39800
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,51348
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,74561
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,38700
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,47927
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,38700
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,47927
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,40190
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,49947
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2009,45865
@@ -203,12 +203,12 @@ NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,88707
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,46727
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,54254
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,78987
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,39464
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,48902
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,39464
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,48902
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,58991
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,41579
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,42365
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,33239
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2010,33239
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,52216
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,88339
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,47465
@@ -217,23 +217,23 @@ CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,75869
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,59798
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,42418
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,45083
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,34805
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,34805
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,39470
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,50376
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,47655
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,39887
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,49403
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,39887
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2011,49403
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,51646
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,89438
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,47900
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,39631
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,50104
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,39631
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,50104
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,51989
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,48033
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,59798
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,42153
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,45116
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,34575
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,34575
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,54501
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,76635
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2012,39128
@@ -244,18 +244,18 @@ NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,89507
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,48965
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,54606
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,77054
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,39805
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,50647
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,39805
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,50647
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,60641
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,42204
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,45153
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,35664
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,35664
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2013,41131
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,44400
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,61603
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,42377
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,45831
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,36450
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,36450
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,53238
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,49615
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,50975
@@ -263,13 +263,13 @@ NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,92187
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,51224
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,55479
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,76707
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,40530
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,51511
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,40530
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2014,51511
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,53974
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,49648
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,49570
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,41048
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,52537
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,41048
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,52537
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,51911
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,93822
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,50222
@@ -278,19 +278,19 @@ CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,78399
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,62264
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,42676
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,46358
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,36938
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2015,36938
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,54461
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,63454
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,42956
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,47103
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,37755
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,37755
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,51947
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,93959
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,50915
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,57165
 CHE,Switzerland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,77703
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,41487
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,52943
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,41487
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,52943
 IRL,Ireland,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,54051
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2016,49792
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,54586
@@ -300,26 +300,26 @@ NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,54349
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,95345
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,52688
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,58229
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,42499
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,53816
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,42499
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,53816
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,64128
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,44034
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,48126
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,39610
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2017,39610
 AUS,Australia,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,55078
 CAN,Canada,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,50864
 DNK,Denmark,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,65371
 FRA,France,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,44651
 DEU,Germany,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,48809
-HKG,"Hong Kong SAR, China",NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,40731
-GBR,United Kingdom,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,42742
-USA,United States,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,55079
+HKG,HongKong,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,40731
+GBR,UK,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,42742
+USA,USA,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,55079
 NLD,Netherlands,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,55568
 NOR,Norway,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,95951
 SGP,Singapore,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,54169
 SWE,Sweden,NY.GNP.PCAP.KD,GNI_Per_Capita,1,2018,58812
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,1996,77
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,1996,76
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,1996,77
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,1996,76
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,1996,78
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,1996,78
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,1996,79
@@ -327,7 +327,7 @@ CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,1996,79
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,1996,76
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,1996,78
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,1996,77
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,1996,80
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,1996,80
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,1996,76
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,1996,77
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,1996,78
@@ -335,15 +335,15 @@ SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,1996,77
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,1997,76
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,1997,78
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,1997,77
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,1997,80
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,1997,80
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,1997,76
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,1997,78
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,1997,78
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,1997,77
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,1997,79
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,1997,79
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,1997,77
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,1997,76
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,1997,77
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,1997,76
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,1997,78
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,1997,78
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,1998,76
@@ -352,24 +352,24 @@ CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,1998,79
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,1998,76
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,1998,79
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,1998,77
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,1998,80
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,1998,80
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,1998,78
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,1998,78
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,1998,77
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,1998,79
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,1998,79
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,1998,77
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,1998,77
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,1998,77
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,1998,77
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,1999,79
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,1999,79
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,1999,76
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,1999,78
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,1999,77
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,1999,77
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,1999,77
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,1999,77
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,1999,76
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,1999,79
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,1999,78
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,1999,80
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,1999,80
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,1999,78
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,1999,78
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,1999,79
@@ -381,12 +381,12 @@ CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2000,80
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2000,77
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2000,79
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2000,78
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2000,81
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2000,81
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2000,78
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2000,79
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2000,78
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2000,78
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2000,77
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2000,78
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2000,77
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2000,77
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2001,78
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2001,79
@@ -396,22 +396,22 @@ AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2001,80
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2001,77
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2001,79
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2001,78
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2001,81
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2001,81
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2001,80
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2001,80
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2001,78
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2001,77
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2001,78
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2001,77
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2001,79
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2002,78
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2002,80
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2002,79
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2002,79
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2002,78
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2002,77
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2002,78
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2002,77
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2002,77
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2002,79
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2002,78
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2002,81
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2002,81
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2002,78
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2002,79
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2002,80
@@ -419,15 +419,15 @@ CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2002,80
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2003,78
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2003,79
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2003,79
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2003,78
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2003,77
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2003,78
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2003,77
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2003,78
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2003,80
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2003,80
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2003,77
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2003,79
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2003,78
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2003,81
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2003,81
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2003,80
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2003,81
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2004,80
@@ -437,13 +437,13 @@ NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2004,80
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2004,79
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2004,80
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2004,81
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2004,79
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2004,77
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2004,79
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2004,77
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2004,79
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2004,77
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2004,80
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2004,79
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2004,82
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2004,82
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2005,79
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2005,80
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2005,80
@@ -452,21 +452,21 @@ CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2005,81
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2005,78
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2005,80
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2005,79
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2005,82
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2005,82
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2005,81
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2005,80
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2005,79
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2005,79
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2005,77
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2005,79
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2005,77
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2006,80
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2006,80
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2006,80
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2006,79
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2006,78
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2006,79
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2006,78
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2006,78
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2006,81
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2006,79
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2006,82
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2006,82
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2006,81
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2006,81
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2006,79
@@ -479,12 +479,12 @@ NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2007,80
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2007,80
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2007,81
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2007,82
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2007,79
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2007,78
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2007,79
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2007,78
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2007,78
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2007,81
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2007,80
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2007,82
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2007,82
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2007,80
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2008,80
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2008,81
@@ -494,23 +494,23 @@ CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2008,82
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2008,78
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2008,81
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2008,80
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2008,82
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2008,80
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2008,78
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2008,82
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2008,80
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2008,78
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2008,80
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2008,81
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2008,81
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2009,79
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2009,81
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2009,80
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2009,83
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2009,83
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2009,81
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2009,81
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2009,81
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2009,81
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2009,82
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2009,80
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2009,78
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2009,80
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2009,78
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2009,80
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2009,82
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2009,81
@@ -522,12 +522,12 @@ NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2010,81
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2010,82
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2010,81
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2010,82
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2010,80
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2010,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2010,80
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2010,79
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2010,79
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2010,82
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2010,80
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2010,83
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2010,83
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2011,81
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2011,81
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2011,82
@@ -536,23 +536,23 @@ CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2011,83
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2011,80
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2011,82
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2011,80
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2011,83
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2011,83
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2011,81
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2011,82
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2011,81
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2011,81
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2011,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2011,81
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2011,79
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2012,81
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2012,81
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2012,82
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2012,81
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2012,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2012,81
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2012,79
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2012,82
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2012,82
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2012,80
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2012,82
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2012,81
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2012,83
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2012,83
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2012,82
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2012,83
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2012,81
@@ -563,18 +563,18 @@ NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2013,82
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2013,82
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2013,82
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2013,83
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2013,81
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2013,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2013,81
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2013,79
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2013,80
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2013,82
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2013,80
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2013,84
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2013,84
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2013,81
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2014,81
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2014,81
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2014,83
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2014,81
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2014,84
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2014,84
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2014,82
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2014,82
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2014,82
@@ -582,13 +582,13 @@ NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2014,82
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2014,82
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2014,82
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2014,83
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2014,81
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2014,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2014,81
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2014,79
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2015,82
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2015,82
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2015,81
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2015,81
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2015,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2015,81
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2015,79
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2015,82
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2015,82
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2015,83
@@ -597,19 +597,19 @@ CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2015,83
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2015,81
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2015,82
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2015,81
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2015,84
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2015,84
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2016,82
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2016,81
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2016,83
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2016,81
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2016,84
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2016,84
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2016,82
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2016,82
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2016,83
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2016,82
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2016,84
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2016,81
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2016,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2016,81
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2016,79
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2016,82
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2016,82
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2017,83
@@ -620,21 +620,21 @@ NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2017,83
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2017,83
 SWE,Sweden,SP.DYN.LE00.IN,Life_Expectancy,1,2017,82
 CHE,Switzerland,SP.DYN.LE00.IN,Life_Expectancy,1,2017,84
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2017,81
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2017,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2017,81
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2017,79
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2017,81
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2017,83
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2017,81
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2017,85
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2017,85
 AUS,Australia,SP.DYN.LE00.IN,Life_Expectancy,1,2018,83
 CAN,Canada,SP.DYN.LE00.IN,Life_Expectancy,1,2018,82
 DNK,Denmark,SP.DYN.LE00.IN,Life_Expectancy,1,2018,81
 FRA,France,SP.DYN.LE00.IN,Life_Expectancy,1,2018,83
 DEU,Germany,SP.DYN.LE00.IN,Life_Expectancy,1,2018,81
-HKG,"Hong Kong SAR, China",SP.DYN.LE00.IN,Life_Expectancy,1,2018,85
+HKG,HongKong,SP.DYN.LE00.IN,Life_Expectancy,1,2018,85
 IRL,Ireland,SP.DYN.LE00.IN,Life_Expectancy,1,2018,83
-GBR,United Kingdom,SP.DYN.LE00.IN,Life_Expectancy,1,2018,81
-USA,United States,SP.DYN.LE00.IN,Life_Expectancy,1,2018,79
+GBR,UK,SP.DYN.LE00.IN,Life_Expectancy,1,2018,81
+USA,USA,SP.DYN.LE00.IN,Life_Expectancy,1,2018,79
 NLD,Netherlands,SP.DYN.LE00.IN,Life_Expectancy,1,2018,82
 NOR,Norway,SP.DYN.LE00.IN,Life_Expectancy,1,2018,83
 SGP,Singapore,SP.DYN.LE00.IN,Life_Expectancy,1,2018,83
